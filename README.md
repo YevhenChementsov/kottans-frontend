@@ -1,13 +1,13 @@
 # « 𝕶𝖔𝖙𝖙𝖆𝖓𝖘 𝖋𝖗𝖔𝖓𝖙𝖊𝖓𝖉 𝖈𝖔𝖚𝖗𝖘𝖊 »
 
-![cute kitty](https://www.dougsartgallery.com/images/ASCII-cat-kitten-1-mmmm.gif)
+![ascii art little kitty](https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T5-RMarkdown/Images/coding_cat.png)
 
 ## Stage 0 :
 
 #### 1. General
 
 - :white_check_mark: [Git and GitHub Intro](docs/git-intro.md) <br>
-- :x: Linux, Command Line, HTTP Tools <br>
+- :white_check_mark: [Linux, Command Line, HTTP Tools](docs/linux-cli-http.md) <br>
 - :x: Git for Team Collaboration
 
 #### 2. Front-End Basic
@@ -50,4 +50,21 @@
 - [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 
 - [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
+
+</details>
+
+<details>
+<summary>Linux, Command Line, HTTP Tools</summary>
+
+- [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
+- [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+
+   ***Optional:***
+
+- [Command Line Power User](https://commandlinepoweruser.com/)
+
+- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+
+- [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
 </details>
