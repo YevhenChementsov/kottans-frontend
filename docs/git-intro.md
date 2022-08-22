@@ -18,7 +18,7 @@
 
 </details>
 
-2. _Complete the following levels here at learngitbranching.js.org:_
+2. _Complete the following levels here at [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):_
 
 <details>
 <summary>Basics: Introduction Sequence</summary>
