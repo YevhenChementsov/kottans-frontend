@@ -12,7 +12,7 @@
 
 #### 2. Front-End Basic
 
-- :white_check_mark: Intro to HTML & CSS<br>
+- :white_check_mark: [Intro to HTML & CSS](docs/html-css-intro.md)<br>
 - :x: Responsive Web Design<br>
 - :x: HTML & CSS Practice: Hooli-style Popup<br>
 - :x: JavaScipt Basics<br>
