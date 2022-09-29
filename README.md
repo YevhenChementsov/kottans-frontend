@@ -12,7 +12,7 @@
 
 #### 2. Front-End Basic
 
-- :x: Intro to HTML & CSS<br>
+- :white_check_mark: Intro to HTML & CSS<br>
 - :x: Responsive Web Design<br>
 - :x: HTML & CSS Practice: Hooli-style Popup<br>
 - :x: JavaScipt Basics<br>
@@ -28,7 +28,7 @@
 - :x: Website Performance Optimization - optional<br>
 - :x: Friends App — real project!<br>
 
-***Aditional Information of the Course:***
+**_Aditional Information of the Course:_**
 
 <details>
 <summary>Git та GitHub</summary>
@@ -60,7 +60,7 @@
 
 - [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 
-   ***Optional:***
+  **_Optional:_**
 
 - [Command Line Power User](https://commandlinepoweruser.com/)
 
@@ -80,5 +80,26 @@
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
 - [GitHub Skills](https://skills.github.com/)
+
+</details>
+
+<details>
+<summary>Intro to HTML & CSS</summary>
+
+- [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+
+- [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+
+- [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+
+- [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+
+- [freecodecamp.org](https://www.freecodecamp.org)
+
+- [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
+
+- [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
+
+- [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
 </details>
