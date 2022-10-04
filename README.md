@@ -13,7 +13,7 @@
 #### 2. Front-End Basic
 
 - :white_check_mark: [Intro to HTML & CSS](docs/html-css-intro.md)<br>
-- :x: Responsive Web Design<br>
+- :white_check_mark: [Responsive Web Design](docs/html-css-responsive.md)<br>
 - :x: HTML & CSS Practice: Hooli-style Popup<br>
 - :x: JavaScipt Basics<br>
 - :x: Document Object Model - practice<br>
@@ -101,5 +101,20 @@
 - [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
 
 - [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+
+</details>
+
+<details>
+<summary>Responsive Web Design</summary>
+
+- [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+
+- [Specificity calculator](https://specificity.keegan.st/)
+
+- [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
+
+- [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 
 </details>
